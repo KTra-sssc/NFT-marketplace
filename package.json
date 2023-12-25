@@ -1,0 +1,14 @@
+{
+  "name": "nft-marketplace",
+  "version": "1.0.0",
+  "description": "init project\r         ```sh\r             npm init\r         ```\r     install harhat\r         ```sh\r             npm install --save-dev hardhat\r         ```\r     init harhat project & create an empty hardhat.config.js\r         ```sh\r             npx hardhat init\r         ```\r ## Dependencies\r     nodejs v18.17.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.19.3"
+  }
+}
