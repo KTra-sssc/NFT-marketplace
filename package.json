@@ -10,5 +10,10 @@
   "license": "ISC",
   "devDependencies": {
     "hardhat": "^2.19.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "ipfs-http-client": "^60.0.1",
+    "react-router-dom": "^6.21.1"
   }
 }
