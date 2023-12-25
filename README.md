@@ -2,35 +2,35 @@
 
 ## project setup
     init project
-        ```sh
-            npm init
-        ```
+```sh
+    npm init
+```
     install harhat
-        ```sh
-            npm install --save-dev hardhat
-        ```
+```sh
+    npm install --save-dev hardhat
+```
     init harhat project & create an empty hardhat.config.js
-        ```sh
-            npx hardhat init
-        ```
+```sh
+    npx hardhat init
+```
     metamask   
     install react router dom
-        ```sh
-            npm i react-router-dom
-        ```
+```sh
+    npm i react-router-dom
+```
     install http ipfs client
-        ```sh
-            npm i ipfs-http-client
-        ```
+```sh
+    npm i ipfs-http-client
+```
     install contract library
-        ```sh
-            npm i @openzeppelin/contracts
-        ```
+```sh
+    npm i @openzeppelin/contracts
+```
 ## Dependencies
     to install all the dependcies used in this project
-        ```sh
-            npm i
-        ```
+```sh
+    npm i
+```
     dependencies
         nodejs v18.17.0
         hardhat v2.19.3
