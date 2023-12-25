@@ -1,37 +1,37 @@
 # NFT-marketplace
 
 ## project setup
-    init project
+### init project
 ```sh
     npm init
 ```
-    install harhat
+### install harhat
 ```sh
     npm install --save-dev hardhat
 ```
-    init harhat project & create an empty hardhat.config.js
+### init harhat project & create an empty hardhat.config.js
 ```sh
     npx hardhat init
 ```
-    metamask   
-    install react router dom
+### metamask   
+### install react router dom
 ```sh
     npm i react-router-dom
 ```
-    install http ipfs client
+### install http ipfs client
 ```sh
     npm i ipfs-http-client
 ```
-    install contract library
+### install contract library
 ```sh
     npm i @openzeppelin/contracts
 ```
 ## Dependencies
-    to install all the dependcies used in this project
+### to install all the dependcies used in this project
 ```sh
     npm i
 ```
-    dependencies
+### dependencies
         nodejs v18.17.0
         hardhat v2.19.3
         react-router-dom v6.21.1
